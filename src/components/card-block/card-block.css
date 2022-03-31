@@ -1,0 +1,15 @@
+.card-block {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.card-block__total-price {
+  margin-left: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.card-block__icon {
+  cursor: pointer;
+  position: relative;
+}
